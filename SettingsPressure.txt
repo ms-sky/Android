@@ -1,0 +1,6 @@
+.pressure.PressureSensitySettingsActivity
+.pressure.PicturePressSettingsActivity
+.pressure.ApplicationListActivity
+.pressure.PressureResponseSettingsActivity
+.pressure.EdgePressSettingsActivity
+.pressure.PressureContentPreviewActivity
